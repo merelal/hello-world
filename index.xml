@@ -6,7 +6,16 @@
     <description>Recent content on Hehehehehe....</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Aug 2021 07:24:07 +0530</lastBuildDate><atom:link href="https://merelal.github.io/hello-world/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Aug 2021 08:23:25 +0530</lastBuildDate><atom:link href="https://merelal.github.io/hello-world/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second Post2</title>
+      <link>https://merelal.github.io/hello-world/posts/second-post2/</link>
+      <pubDate>Wed, 25 Aug 2021 08:23:25 +0530</pubDate>
+      
+      <guid>https://merelal.github.io/hello-world/posts/second-post2/</guid>
+      <description>second post</description>
+    </item>
+    
     <item>
       <title>My First Post</title>
       <link>https://merelal.github.io/hello-world/posts/my-first-post-copy-2-copy-2/</link>
@@ -165,6 +174,15 @@ Furst post is always furst post.</description>
       <guid>https://merelal.github.io/hello-world/posts/my-first-post/</guid>
       <description>Furst Post
 Furst post is always furst post.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://merelal.github.io/hello-world/posts/second-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://merelal.github.io/hello-world/posts/second-post/</guid>
+      <description></description>
     </item>
     
   </channel>

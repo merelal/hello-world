@@ -3,7 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://merelal.github.io/hello-world/</loc>
-    <lastmod>2021-08-25T07:24:07+05:30</lastmod>
+    <lastmod>2021-08-25T08:23:25+05:30</lastmod>
+  </url><url>
+    <loc>https://merelal.github.io/hello-world/posts/</loc>
+    <lastmod>2021-08-25T08:23:25+05:30</lastmod>
+  </url><url>
+    <loc>https://merelal.github.io/hello-world/posts/second-post2/</loc>
+    <lastmod>2021-08-25T08:23:25+05:30</lastmod>
   </url><url>
     <loc>https://merelal.github.io/hello-world/posts/my-first-post-copy-2-copy-2/</loc>
     <lastmod>2021-08-25T07:24:07+05:30</lastmod>
@@ -53,8 +59,7 @@
     <loc>https://merelal.github.io/hello-world/posts/my-first-post/</loc>
     <lastmod>2021-08-25T07:24:07+05:30</lastmod>
   </url><url>
-    <loc>https://merelal.github.io/hello-world/posts/</loc>
-    <lastmod>2021-08-25T07:24:07+05:30</lastmod>
+    <loc>https://merelal.github.io/hello-world/posts/second-post/</loc>
   </url><url>
     <loc>https://merelal.github.io/hello-world/categories/</loc>
   </url><url>
